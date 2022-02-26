@@ -16,3 +16,6 @@ https://www.educative.io/edpresso/what-is-a-cpp-abstract-class
 
 https://iq.opengenus.org/singleton-design-pattern-in-cpp/
 
+https://refactoring.guru/design-patterns/
+
+https://stackoverflow.com/questions/3065154/undefined-reference-to-vtable
