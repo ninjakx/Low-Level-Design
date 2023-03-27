@@ -1,5 +1,4 @@
 package JobScheduler.src.main.entity;
-
 import java.util.concurrent.TimeUnit;
 
 public class SchduledTask {
