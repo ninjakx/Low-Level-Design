@@ -63,8 +63,11 @@ Creating my own notes based on that for learning purpose.
 ### Future:
 
 ### Refererences:
+
 https://leetcode.com/discuss/interview-question/system-design/344524/Amazon-or-Design-a-JobTask-Scheduler
+
 https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
+
 https://www.geeksforgeeks.org/difference-between-job-task-and-process/
 
 ### Questions:
