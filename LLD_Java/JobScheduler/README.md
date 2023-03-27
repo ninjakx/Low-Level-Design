@@ -1,3 +1,6 @@
+Content has been taken from: https://www.youtube.com/watch?v=l6uKzV7yZzM.
+Creating my own notes based on that for learning purpose.
+
 # Design a Job Scheduler
 ### Requirements:
 1) User should be able to schedule adhoc events with initial delay.
