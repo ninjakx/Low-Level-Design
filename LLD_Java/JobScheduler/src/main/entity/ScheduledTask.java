@@ -2,7 +2,7 @@ package JobScheduler.src.main.entity;
 
 import java.util.concurrent.TimeUnit;
 
-public class SchduledTask {
+public class ScheduledTask {
    private final Runnable runnable;
    private final int taskType;
    private final Long period;
@@ -14,7 +14,7 @@ public class SchduledTask {
     return runnable;
 }
 
-public SchduledTask(Runnable runnable, int taskType, Long period, Long delay, TimeUnit unit, Long scheduledTime) {
+public ScheduledTask(Runnable runnable, int taskType, Long period, Long delay, TimeUnit unit, Long scheduledTime) {
     this.runnable = runnable;
     this.taskType = taskType;
     this.period = period;
