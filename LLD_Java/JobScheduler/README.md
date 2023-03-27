@@ -62,7 +62,7 @@ Creating my own notes based on that for learning purpose.
 
 ### Future:
 
-### Refererences:
+### References:
 
 https://leetcode.com/discuss/interview-question/system-design/344524/Amazon-or-Design-a-JobTask-Scheduler
 
