@@ -1,4 +1,4 @@
-package Java.CarRental.Payement;
+package CarRental.Payement;
 import java.util.Date;
 
 public class PaymentDetails {

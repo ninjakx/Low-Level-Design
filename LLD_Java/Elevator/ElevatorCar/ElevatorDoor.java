@@ -1,4 +1,4 @@
-package Java.Elevator.ElevatorCar;
+package Elevator.ElevatorCar;
 
 public class ElevatorDoor {
     public void openDoor(){

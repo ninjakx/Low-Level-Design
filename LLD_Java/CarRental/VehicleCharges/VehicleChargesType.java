@@ -1,4 +1,4 @@
-package Java.CarRental.VehicleCharges;
+package CarRental.VehicleCharges;
 
 public enum VehicleChargesType {
     KM,

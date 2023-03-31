@@ -1,4 +1,4 @@
-package Java.RideSharing.Model;
+package RideSharing.Model;
 
 public enum TripStatus {
     WITHDRAWN,

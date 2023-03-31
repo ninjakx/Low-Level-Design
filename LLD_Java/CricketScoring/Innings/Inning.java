@@ -1,10 +1,10 @@
-package Java.CricketScoring.Innings;
+package CricketScoring.Innings;
 import java.util.ArrayList;
 import java.util.List;
 
-import Java.CricketScoring.MatchType;
-import Java.CricketScoring.Team.*;
-import Java.CricketScoring.Team.Player.Player;
+import CricketScoring.MatchType;
+import CricketScoring.Team.*;
+import CricketScoring.Team.Player.Player;
 public class Inning {
     Team battingTeam;
     Team bowlingTeam;

@@ -1,11 +1,11 @@
-package Java.CricketScoring;
+package CricketScoring;
 
 import java.util.ArrayList;
 
-import Java.CricketScoring.Team.*;
+import CricketScoring.Team.*;
 import java.util.Date;
 import java.util.List;
-import Java.CricketScoring.Innings.*;
+import CricketScoring.Innings.*;
 
 public class Match {
     Team teamA;

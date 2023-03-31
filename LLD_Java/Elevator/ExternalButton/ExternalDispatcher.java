@@ -1,10 +1,10 @@
-package Java.Elevator.ExternalButton;
+package Elevator.ExternalButton;
 
-import Java.Elevator.ElevatorCar.ElevatorCreator;
+import Elevator.ElevatorCar.ElevatorCreator;
 
 import java.util.List;
-import Java.Elevator.ElevatorCar.ElevatorController;
-import Java.Elevator.ElevatorCar.Direction;
+import Elevator.ElevatorCar.ElevatorController;
+import Elevator.ElevatorCar.Direction;
 
 public class ExternalDispatcher {
     static List<ElevatorController> elevatorControllerList = ElevatorCreator.elevatorControllerList;

@@ -1,4 +1,4 @@
-package Java.SplitwiseLLD.User;
+package SplitwiseLLD.User;
 
 import java.util.ArrayList;
 import java.util.List;

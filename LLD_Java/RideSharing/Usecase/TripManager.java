@@ -1,13 +1,13 @@
-package Java.RideSharing.Usecase;
+package RideSharing.Usecase;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 
-import Java.RideSharing.Model.*;
-import Java.RideSharing.Strategy.DriverMatchingStrategy;
-import Java.RideSharing.Strategy.PricingStrategy;
+import RideSharing.Model.*;
+import RideSharing.Strategy.DriverMatchingStrategy;
+import RideSharing.Strategy.PricingStrategy;
 public class TripManager {
     private Map<String, List<Trip>> trips; // rider ID and its trips
     private RiderManager riderManager;

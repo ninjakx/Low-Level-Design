@@ -1,4 +1,4 @@
-package Java.Elevator.Building;
+package Elevator.Building;
 
 import java.util.List;
 public class Building {

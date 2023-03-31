@@ -1,7 +1,7 @@
-package Java.BookMyShow.Theatre;
+package BookMyShow.Theatre;
 import java.util.ArrayList;
 import java.util.List;
-import Java.BookMyShow.Model.*;
+import BookMyShow.Model.*;
 public class Theatre {
     int theatreID;
     Location location;

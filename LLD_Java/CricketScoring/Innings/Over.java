@@ -1,9 +1,9 @@
-package Java.CricketScoring.Innings;
+package CricketScoring.Innings;
 
 import java.util.ArrayList;
 import java.util.List;
-import Java.CricketScoring.Team.Player.*;
-import Java.CricketScoring.Team.*;
+import CricketScoring.Team.Player.*;
+import CricketScoring.Team.*;
 
 public class Over {
     int overNumber;

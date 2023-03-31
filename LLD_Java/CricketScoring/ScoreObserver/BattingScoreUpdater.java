@@ -1,7 +1,7 @@
-package Java.CricketScoring.ScoreObserver;
+package CricketScoring.ScoreObserver;
 
-import Java.CricketScoring.Innings.*;
-import Java.CricketScoring.Team.Player.*;
+import CricketScoring.Innings.*;
+import CricketScoring.Team.Player.*;
 
 public class BattingScoreUpdater implements ScoreUpdaterObserver{
     @Override

@@ -1,4 +1,4 @@
-package Java.BookMyShow.Theatre;
+package BookMyShow.Theatre;
 
 import java.util.ArrayList;
 import java.util.List;

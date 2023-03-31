@@ -1,6 +1,6 @@
-package Java.CricketScoring.Team.Player.Score;
-import Java.CricketScoring.Team.*;
-import Java.CricketScoring.Team.Player.*;
+package CricketScoring.Team.Player.Score;
+import CricketScoring.Team.*;
+import CricketScoring.Team.Player.*;
 public class BattingScoreCard {
     int totalRun;
     int totalBallPlayed;

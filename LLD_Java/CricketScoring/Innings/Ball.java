@@ -1,10 +1,10 @@
-package Java.CricketScoring.Innings;
+package CricketScoring.Innings;
 import java.util.ArrayList;
 import java.util.List;
 
-import Java.CricketScoring.ScoreObserver.*;
-import Java.CricketScoring.Team.*;
-import Java.CricketScoring.Team.Player.*;
+import CricketScoring.ScoreObserver.*;
+import CricketScoring.Team.*;
+import CricketScoring.Team.Player.*;
 
 public class Ball {
     int ballNum;

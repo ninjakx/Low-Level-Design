@@ -1,7 +1,7 @@
-package Java.TaskScheduler.Task;
+package TaskScheduler.Task;
 import java.util.UUID;
 
-import Java.TaskScheduler.User.User;
+import TaskScheduler.User.User;
 
 public class Task {
     // tasktype, taskstatus

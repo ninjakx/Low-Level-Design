@@ -1,4 +1,4 @@
-package Java.MeetingScheduler;
+package MeetingScheduler;
 
 import java.util.ArrayList;
 // import java.util.ArrayList;

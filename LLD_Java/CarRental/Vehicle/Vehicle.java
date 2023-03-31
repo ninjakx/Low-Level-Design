@@ -1,7 +1,7 @@
-package Java.CarRental.Vehicle;
+package CarRental.Vehicle;
 
-import Java.CarRental.VehicleCharges.*;
-import Java.CarRental.Vehicle.*;
+import CarRental.VehicleCharges.*;
+import CarRental.Vehicle.*;
 
 public class Vehicle {
     // vehicles details

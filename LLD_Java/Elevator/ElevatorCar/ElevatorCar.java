@@ -1,6 +1,6 @@
-package Java.Elevator.ElevatorCar;
+package Elevator.ElevatorCar;
 
-import Java.Elevator.InternalButton.InternalButtons;
+import Elevator.InternalButton.InternalButtons;
 
 public class ElevatorCar {
     int currentFloor;

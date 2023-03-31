@@ -1,4 +1,4 @@
-package Java.RideSharing.Strategy;
+package RideSharing.Strategy;
 
 public class PricingStrategyImpl implements PricingStrategy{
     @Override

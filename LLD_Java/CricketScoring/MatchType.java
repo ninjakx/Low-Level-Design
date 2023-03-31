@@ -1,4 +1,4 @@
-package Java.CricketScoring;
+package CricketScoring;
 
 public interface MatchType {
     public int noOfOvers();

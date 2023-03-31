@@ -1,4 +1,4 @@
-package Java.SplitwiseLLD;
+package SplitwiseLLD;
 
 public class UserExpenseBalanceSheet {
     

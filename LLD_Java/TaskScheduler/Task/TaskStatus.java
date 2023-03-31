@@ -1,4 +1,4 @@
-package Java.TaskScheduler.Task;
+package TaskScheduler.Task;
 
 public enum TaskStatus {
     OPEN,

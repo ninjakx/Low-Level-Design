@@ -1,4 +1,4 @@
-package Java.AdapterPattern.Adapter;
+package AdapterPattern.Adapter;
 
 public interface AdapterInterface {
    public double getWeightInPound(double weight);

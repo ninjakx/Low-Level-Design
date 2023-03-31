@@ -1,4 +1,4 @@
-package Java.CricketScoring;
+package CricketScoring;
 
 public class OneDayMatchType implements MatchType{
     @Override

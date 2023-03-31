@@ -1,8 +1,8 @@
-package Java.RideSharing.Usecase;
+package RideSharing.Usecase;
 
 import java.util.ArrayList;
 import java.util.List;
-import Java.RideSharing.Model.*;
+import RideSharing.Model.*;
 
 public class RiderManager {
     private List<Rider> riders;

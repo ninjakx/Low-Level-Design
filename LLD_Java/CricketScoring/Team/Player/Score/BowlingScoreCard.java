@@ -1,4 +1,4 @@
-package Java.CricketScoring.Team.Player.Score;
+package CricketScoring.Team.Player.Score;
 
 public class BowlingScoreCard {
     int totalOverSoFar;

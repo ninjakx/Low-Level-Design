@@ -1,9 +1,9 @@
-package Java.CarRental.Reservation;
+package CarRental.Reservation;
 import java.util.Date;
 
-import Java.CarRental.VehicleCharges.*;
-import Java.CarRental.Model.*;
-import Java.CarRental.Vehicle.*;
+import CarRental.VehicleCharges.*;
+import CarRental.Model.*;
+import CarRental.Vehicle.*;
 
 
 public class Reservation {

@@ -1,5 +1,5 @@
-package Java.CarRental.VehicleCharges;
-import Java.CarRental.Vehicle.*;
+package CarRental.VehicleCharges;
+import CarRental.Vehicle.*;
 public class VehicleChargesPerHour extends VehicleCharges {
     VehicleType vehicleType;
     public VehicleChargesPerHour(VehicleType vehicleType){

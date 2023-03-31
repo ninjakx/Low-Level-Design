@@ -1,4 +1,4 @@
-package Java.BookMyShow.Booking;
+package BookMyShow.Booking;
 
 public class Payment {
     int paymentId;

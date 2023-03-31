@@ -1,4 +1,4 @@
-package Java.BookMyShow.User;
+package BookMyShow.User;
 
 public class UserController {
     

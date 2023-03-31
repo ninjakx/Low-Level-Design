@@ -1,6 +1,6 @@
-package Java.CarRental.VehicleCharges;
+package CarRental.VehicleCharges;
 
-import Java.CarRental.Vehicle.VehicleType;
+import CarRental.Vehicle.VehicleType;
 // https://www.w3schools.com/java/java_abstract.asp
 // Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
 public abstract class VehicleCharges {

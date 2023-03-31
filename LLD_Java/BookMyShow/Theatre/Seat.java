@@ -1,5 +1,5 @@
-package Java.BookMyShow.Theatre;
-import Java.BookMyShow.Model.*;
+package BookMyShow.Theatre;
+import BookMyShow.Model.*;
 public class Seat {
     int seatID;
     int rowNum;

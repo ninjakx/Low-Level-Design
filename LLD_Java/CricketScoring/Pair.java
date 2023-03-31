@@ -1,4 +1,4 @@
-package Java.CricketScoring;
+package CricketScoring;
 
 public class Pair<T1, T2> {
     T1 pname;

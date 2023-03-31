@@ -1,8 +1,8 @@
-package Java.Elevator.InternalButton;
-import Java.Elevator.ElevatorCar.ElevatorCar;
-import Java.Elevator.ElevatorCar.ElevatorCreator;
-import Java.Elevator.ElevatorCar.ElevatorController;
-import Java.Elevator.ElevatorCar.ElevatorController.*;
+package Elevator.InternalButton;
+import Elevator.ElevatorCar.ElevatorCar;
+import Elevator.ElevatorCar.ElevatorCreator;
+import Elevator.ElevatorCar.ElevatorController;
+import Elevator.ElevatorCar.ElevatorController.*;
 import java.util.List;
 
 public class InternalDispatcher {

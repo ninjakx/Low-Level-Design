@@ -1,4 +1,4 @@
-package Java.CarRental.Vehicle;
+package CarRental.Vehicle;
 
 public enum VehicleType {
     BIKE,

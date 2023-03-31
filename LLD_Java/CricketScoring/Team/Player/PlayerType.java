@@ -1,4 +1,4 @@
-package Java.CricketScoring.Team.Player;
+package CricketScoring.Team.Player;
 
 public enum PlayerType {
     BOWLER,

@@ -1,6 +1,6 @@
-package Java.CarRental;
+package CarRental;
 import java.util.List;
-import Java.CarRental.Model.*;
+import CarRental.Model.*;
 public class VehicleRentalSystem {
     List<Store> storeList;
     List<User> userList;

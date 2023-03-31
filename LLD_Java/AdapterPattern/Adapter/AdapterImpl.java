@@ -1,5 +1,5 @@
-package Java.AdapterPattern.Adapter;
-import Java.AdapterPattern.Adaptee.AdapteeInterface;
+package AdapterPattern.Adapter;
+import AdapterPattern.Adaptee.AdapteeInterface;
 
 public class AdapterImpl implements AdapterInterface{
     AdapteeInterface adapteeInterface;

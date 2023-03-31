@@ -1,4 +1,4 @@
-package Java.CricketScoring.Team;
+package CricketScoring.Team;
 
 public enum WicketType {
     RUNOUT,

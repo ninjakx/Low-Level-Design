@@ -1,4 +1,4 @@
-package Java.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class LuxuryCar extends Car {
     LuxuryCar(Location location){

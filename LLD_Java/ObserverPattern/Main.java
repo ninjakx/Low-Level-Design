@@ -1,8 +1,8 @@
-package Java.ObserverPattern;
+package ObserverPattern;
 
-import Java.ObserverPattern.Editor.Editor;
-import Java.ObserverPattern.Listener.EmailNotificationListener;
-import Java.ObserverPattern.Listener.LogOpenListener;
+import ObserverPattern.Editor.Editor;
+import ObserverPattern.Listener.EmailNotificationListener;
+import ObserverPattern.Listener.LogOpenListener;
 
 public class Main {
     public static void main(String[] args){

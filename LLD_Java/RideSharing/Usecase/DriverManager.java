@@ -1,5 +1,5 @@
-package Java.RideSharing.Usecase;
-import Java.RideSharing.Model.*;
+package RideSharing.Usecase;
+import RideSharing.Model.*;
 import java.util.*;
 public class DriverManager {
     private List<Driver> drivers;

@@ -1,4 +1,4 @@
-package Java.CricketScoring.Innings;
+package CricketScoring.Innings;
 
 public enum RunType {
     ONE,

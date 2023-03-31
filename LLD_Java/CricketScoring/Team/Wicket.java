@@ -1,6 +1,6 @@
-package Java.CricketScoring.Team;
-import Java.CricketScoring.Team.Player.*;
-import Java.CricketScoring.Innings.*;
+package CricketScoring.Team;
+import CricketScoring.Team.Player.*;
+import CricketScoring.Innings.*;
 public class Wicket {
     WicketType wicketType;
     Player takenby;

@@ -1,6 +1,6 @@
-package Java.CarRental.Payement;
+package CarRental.Payement;
 
-import Java.CarRental.Reservation.Reservation;
+import CarRental.Reservation.Reservation;
 
 public class Invoice {
     Reservation reservation;

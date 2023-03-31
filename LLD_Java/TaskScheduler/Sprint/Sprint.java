@@ -1,12 +1,12 @@
-package Java.TaskScheduler.Sprint;
+package TaskScheduler.Sprint;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import Java.TaskScheduler.Task.Task;
-import Java.TaskScheduler.Task.TaskStatus;
-import Java.TaskScheduler.User.User;
+import TaskScheduler.Task.Task;
+import TaskScheduler.Task.TaskStatus;
+import TaskScheduler.User.User;
 
 public class Sprint {
     String sprintID;

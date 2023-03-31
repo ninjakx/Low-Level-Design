@@ -1,4 +1,4 @@
-package Java.SplitwiseLLD.Expense.Split;
+package SplitwiseLLD.Expense.Split;
 
 import java.util.List; 
 

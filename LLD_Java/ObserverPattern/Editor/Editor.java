@@ -1,6 +1,6 @@
-package Java.ObserverPattern.Editor;
+package ObserverPattern.Editor;
 import java.io.File;
-import Java.ObserverPattern.Event.*;
+import ObserverPattern.Event.*;
 public class Editor {
     private File file;
     public EventManager events;

@@ -1,11 +1,11 @@
-package Java.BookMyShow;
+package BookMyShow;
 
-import Java.BookMyShow.Movie.Movie;
-import Java.BookMyShow.Movie.MovieController;
-import Java.BookMyShow.Theatre.TheatreController;
-import Java.BookMyShow.Model.*;
-import Java.BookMyShow.Theatre.*;
-import Java.BookMyShow.Booking.*;
+import BookMyShow.Movie.Movie;
+import BookMyShow.Movie.MovieController;
+import BookMyShow.Theatre.TheatreController;
+import BookMyShow.Model.*;
+import BookMyShow.Theatre.*;
+import BookMyShow.Booking.*;
 
 import java.util.ArrayList;
 import java.util.List;

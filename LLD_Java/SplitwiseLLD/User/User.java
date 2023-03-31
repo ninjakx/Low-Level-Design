@@ -1,4 +1,6 @@
-package Java.SplitwiseLLD.User;
+package SplitwiseLLD.User;
+
+import SplitwiseLLD.UserExpenseBalanceSheet;
 
 public class User {
     String userId;

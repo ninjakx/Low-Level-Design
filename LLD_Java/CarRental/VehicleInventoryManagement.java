@@ -1,7 +1,7 @@
-package Java.CarRental;
+package CarRental;
 import java.util.ArrayList;
 import java.util.List;
-import Java.CarRental.Vehicle.*;;
+import CarRental.Vehicle.*;;
 
 public class VehicleInventoryManagement {
     List<Vehicle> vehicles;

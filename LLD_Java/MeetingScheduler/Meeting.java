@@ -1,4 +1,4 @@
-package Java.MeetingScheduler;
+package MeetingScheduler;
 
 public class Meeting {
     int start, end;

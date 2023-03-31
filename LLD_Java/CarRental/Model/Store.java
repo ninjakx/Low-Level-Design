@@ -1,10 +1,10 @@
-package Java.CarRental.Model;
+package CarRental.Model;
 
 import java.util.ArrayList;
 import java.util.List;
-import Java.CarRental.Reservation.*;
-import Java.CarRental.*;
-import Java.CarRental.Vehicle.*;
+import CarRental.Reservation.*;
+import CarRental.*;
+import CarRental.Vehicle.*;
 
 public class Store {
     List<Reservation> reservationList = new ArrayList<>();

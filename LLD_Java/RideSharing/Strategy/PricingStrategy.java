@@ -1,4 +1,4 @@
-package Java.RideSharing.Strategy;
+package RideSharing.Strategy;
 
 public interface PricingStrategy {
     Integer AMT_PER_KM = 20;

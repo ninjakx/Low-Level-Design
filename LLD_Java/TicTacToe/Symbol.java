@@ -1,4 +1,4 @@
-package Java.TicTacToe;
+package TicTacToe;
 
 public enum Symbol {
     X,

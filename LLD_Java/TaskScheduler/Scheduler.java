@@ -1,10 +1,10 @@
-package Java.TaskScheduler;
+package TaskScheduler;
 
-import Java.TaskScheduler.Sprint.Sprint;
-import Java.TaskScheduler.Task.Task;
-import Java.TaskScheduler.Task.TaskStatus;
-import Java.TaskScheduler.Task.TaskType;
-import Java.TaskScheduler.User.User;
+import TaskScheduler.Sprint.Sprint;
+import TaskScheduler.Task.Task;
+import TaskScheduler.Task.TaskStatus;
+import TaskScheduler.Task.TaskType;
+import TaskScheduler.User.User;
 
 public class Scheduler {
     public static void main(String[] args) {

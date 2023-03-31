@@ -1,4 +1,4 @@
-package Java.CarRental.Payement;
+package CarRental.Payement;
 
 public enum PaymentMode {
     CASH,

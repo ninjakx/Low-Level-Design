@@ -1,4 +1,4 @@
-package Java.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 // Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class). 
 abstract class Car{

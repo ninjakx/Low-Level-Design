@@ -1,10 +1,10 @@
-package Java.Elevator;
+package Elevator;
 
 import java.util.ArrayList;
 import java.util.List;
-import Java.Elevator.Building.*;
-import Java.Elevator.ElevatorCar.*;
-// import Java.Elevator.ElevatorCar.ElevatorCreator;
+import Elevator.Building.*;
+import Elevator.ElevatorCar.*;
+// import Elevator.ElevatorCar.ElevatorCreator;
 
 public class Main {
 

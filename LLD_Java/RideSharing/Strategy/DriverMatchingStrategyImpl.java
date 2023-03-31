@@ -1,9 +1,9 @@
-package Java.RideSharing.Strategy;
+package RideSharing.Strategy;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-import Java.RideSharing.Model.*;
+import RideSharing.Model.*;
 
 public class DriverMatchingStrategyImpl implements DriverMatchingStrategy {
     @Override

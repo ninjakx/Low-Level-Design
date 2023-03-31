@@ -1,4 +1,4 @@
-package Java.Elevator.ElevatorCar;
+package Elevator.ElevatorCar;
 import java.util.List;
 import java.util.ArrayList;
 

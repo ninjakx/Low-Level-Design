@@ -1,5 +1,5 @@
-package Java.BookMyShow.User;
-import Java.BookMyShow.Movie.*;
+package BookMyShow.User;
+import BookMyShow.Movie.*;
 public class User {
    int userID;
    Movie movie;

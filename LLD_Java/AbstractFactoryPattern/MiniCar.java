@@ -1,4 +1,4 @@
-package Java.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class MiniCar extends Car {
     MiniCar(Location location){

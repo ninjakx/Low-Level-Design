@@ -1,7 +1,7 @@
-package Java.CricketScoring.Team.Player;
+package CricketScoring.Team.Player;
 
-import Java.CricketScoring.Team.Player.Score.BattingScoreCard;
-import Java.CricketScoring.Team.Player.Score.BowlingScoreCard;
+import CricketScoring.Team.Player.Score.BattingScoreCard;
+import CricketScoring.Team.Player.Score.BowlingScoreCard;
 
 public class Player {
     String playerName;

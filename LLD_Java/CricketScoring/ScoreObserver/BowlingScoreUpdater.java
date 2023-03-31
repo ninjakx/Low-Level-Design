@@ -1,6 +1,6 @@
-package Java.CricketScoring.ScoreObserver;
-import Java.CricketScoring.Innings.*;
-import Java.CricketScoring.Team.Player.*;
+package CricketScoring.ScoreObserver;
+import CricketScoring.Innings.*;
+import CricketScoring.Team.Player.*;
 
 public class BowlingScoreUpdater implements ScoreUpdaterObserver{
     @Override

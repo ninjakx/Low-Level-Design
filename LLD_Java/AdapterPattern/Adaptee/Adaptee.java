@@ -1,4 +1,4 @@
-package Java.AdapterPattern.Adaptee;
+package AdapterPattern.Adaptee;
 
 public class Adaptee implements AdapteeInterface {
     @Override

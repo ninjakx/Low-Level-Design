@@ -1,11 +1,11 @@
-package Java.CricketScoring.Team;
+package CricketScoring.Team;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 
-import Java.CricketScoring.Team.Player.*;
+import CricketScoring.Team.Player.*;
 
 public class Team {
     String teamName;

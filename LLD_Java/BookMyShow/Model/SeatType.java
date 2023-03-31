@@ -1,4 +1,4 @@
-package Java.BookMyShow.Model;
+package BookMyShow.Model;
 
 public enum SeatType {
     GOLD,

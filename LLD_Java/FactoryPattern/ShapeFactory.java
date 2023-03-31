@@ -1,4 +1,4 @@
-package Java.FactoryPattern;
+package FactoryPattern;
 
 public class ShapeFactory {
     Shape getShape(String input){ // functio return shape object

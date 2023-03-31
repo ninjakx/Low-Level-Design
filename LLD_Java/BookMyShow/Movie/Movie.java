@@ -1,4 +1,4 @@
-package Java.BookMyShow.Movie;
+package BookMyShow.Movie;
 
 public class Movie {
     int movieID;

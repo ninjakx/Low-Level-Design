@@ -1,7 +1,7 @@
-package Java.BookMyShow.Booking;
+package BookMyShow.Booking;
 import java.util.ArrayList;
 import java.util.List;
-import Java.BookMyShow.Theatre.*;
+import BookMyShow.Theatre.*;
 public class Booking {
     static int counter=0;
     int bookID;

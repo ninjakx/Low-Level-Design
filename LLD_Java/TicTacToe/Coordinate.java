@@ -1,4 +1,4 @@
-package Java.TicTacToe;
+package TicTacToe;
 
 public class Coordinate {
     public int x;

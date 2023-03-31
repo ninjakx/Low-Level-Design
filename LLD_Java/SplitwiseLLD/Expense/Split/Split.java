@@ -1,5 +1,5 @@
-package Java.SplitwiseLLD.Expense.Split;
-import Java.SplitwiseLLD.User.User;
+package SplitwiseLLD.Expense.Split;
+import SplitwiseLLD.User.User;
 
 public class Split {
     User user;

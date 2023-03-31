@@ -1,4 +1,4 @@
-package Java.CarRental.Model;
+package CarRental.Model;
 
 public class Location {
     String address;

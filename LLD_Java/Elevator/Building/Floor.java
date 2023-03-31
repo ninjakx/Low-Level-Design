@@ -1,6 +1,6 @@
-package Java.Elevator.Building;
-import Java.Elevator.ExternalButton.*;
-import Java.Elevator.ElevatorCar.*;
+package Elevator.Building;
+import Elevator.ExternalButton.*;
+import Elevator.ElevatorCar.*;
 public class Floor {
     int floorNumber;
     ExternalDispatcher externalDispacher;

@@ -1,11 +1,11 @@
-package Java.ObserverPattern.Event;
+package ObserverPattern.Event;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import Java.ObserverPattern.Listener.*;
+import ObserverPattern.Listener.*;
 
 public class EventManager {
     // for a given event type(save, open) created listeners

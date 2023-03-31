@@ -1,13 +1,13 @@
-package Java.TaskScheduler.User;
+package TaskScheduler.User;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import Java.TaskScheduler.Sprint.Sprint;
-import Java.TaskScheduler.Task.Task;
-import Java.TaskScheduler.Task.TaskStatus;
-import Java.TaskScheduler.Task.TaskType;
+import TaskScheduler.Sprint.Sprint;
+import TaskScheduler.Task.Task;
+import TaskScheduler.Task.TaskStatus;
+import TaskScheduler.Task.TaskType;
 
 public class User {
     List<Task> taskList;

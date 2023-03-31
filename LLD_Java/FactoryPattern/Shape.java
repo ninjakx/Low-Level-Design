@@ -1,4 +1,4 @@
-package Java.FactoryPattern;
+package FactoryPattern;
 
 public interface Shape {
     void draw();

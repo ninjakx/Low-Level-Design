@@ -1,9 +1,9 @@
-package Java.BookMyShow.Theatre;
+package BookMyShow.Theatre;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Date;
-// import Java.BookMyShow.Model.*;
-import Java.BookMyShow.Movie.Movie;
+// import BookMyShow.Model.*;
+import BookMyShow.Movie.Movie;
 public class Show {
     int showID;
     Movie movie;

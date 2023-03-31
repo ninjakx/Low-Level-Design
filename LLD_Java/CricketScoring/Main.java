@@ -1,14 +1,14 @@
-package Java.CricketScoring;
+package CricketScoring;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import Java.CricketScoring.Team.Team;
-import Java.CricketScoring.Team.Player.Player;
-import Java.CricketScoring.Team.Player.PlayerBattingController;
-import Java.CricketScoring.Team.Player.PlayerBowlingController;
-import Java.CricketScoring.Team.Player.PlayerType;
+import CricketScoring.Team.Team;
+import CricketScoring.Team.Player.Player;
+import CricketScoring.Team.Player.PlayerBattingController;
+import CricketScoring.Team.Player.PlayerBowlingController;
+import CricketScoring.Team.Player.PlayerType;
 public class Main {
     // https://stackoverflow.com/a/13830541/6660373
     public static void main(String args []){

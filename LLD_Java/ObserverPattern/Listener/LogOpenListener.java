@@ -1,4 +1,4 @@
-package Java.ObserverPattern.Listener;
+package ObserverPattern.Listener;
 
 import java.io.File;
 

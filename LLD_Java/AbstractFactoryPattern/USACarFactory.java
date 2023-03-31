@@ -1,4 +1,4 @@
-package Java.AbstractFactoryPattern;
+package AbstractFactoryPattern;
 
 public class USACarFactory {
     public static Car buildCar(CarType model){

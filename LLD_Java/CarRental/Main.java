@@ -1,11 +1,11 @@
-package Java.CarRental;
+package CarRental;
 import java.util.List;
 import java.util.ArrayList;
-import Java.CarRental.Vehicle.*;
-import Java.CarRental.VehicleCharges.*;
-import Java.CarRental.Model.*;
-import Java.CarRental.Reservation.*;
-import Java.CarRental.Payement.*;
+import CarRental.Vehicle.*;
+import CarRental.VehicleCharges.*;
+import CarRental.Model.*;
+import CarRental.Reservation.*;
+import CarRental.Payement.*;
 
 public class Main {
 

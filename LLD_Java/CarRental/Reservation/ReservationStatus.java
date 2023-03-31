@@ -1,4 +1,4 @@
-package Java.CarRental.Reservation;
+package CarRental.Reservation;
 
 public enum ReservationStatus {
     COMPLETED,

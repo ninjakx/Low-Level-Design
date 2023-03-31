@@ -1,4 +1,4 @@
-package Java.CricketScoring;
+package CricketScoring;
 
 
 public class T20MatchType implements MatchType{

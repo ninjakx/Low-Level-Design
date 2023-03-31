@@ -1,11 +1,11 @@
-package Java.BookMyShow.Theatre;
+package BookMyShow.Theatre;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import Java.BookMyShow.Model.*;
+import BookMyShow.Model.*;
 import java.util.Map;
-import Java.BookMyShow.Movie.*;
+import BookMyShow.Movie.*;
 
 public class TheatreController {
     public Map<Location, List<Theatre>> cityTheatre;

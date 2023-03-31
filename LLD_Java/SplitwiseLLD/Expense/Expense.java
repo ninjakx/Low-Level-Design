@@ -1,18 +1,20 @@
-package Java.SplitwiseLLD.Expense;
+package SplitwiseLLD.Expense;
 import java.util.ArrayList;
 import java.util.List;
 
-import Java.SplitwiseLLD.User.User;
+import SplitwiseLLD.Expense.Split.ExpenseSplit;
+import SplitwiseLLD.Expense.Split.Split;
+import SplitwiseLLD.User.User;
 
 public class Expense {
     String expenseId;
     String description;
     double expenseAmount;
     User paidByUser;
-    ExpenseSplitType splitType; // equal, unequal
+    ExpenseSplit splitType; // equal, unequal
     List<Split> splitDetails = new ArrayList<>();
 
-    public Expense(String expenseId, String description, double expenseAmount, ExpenseSplitType splitType, User paidByUser, List<Split> splitDetails){
+    public Expense(String expenseId, String description, double expenseAmount, ExpenseSplit splitType, User paidByUser, List<Split> splitDetails){
         this.expenseId = expenseId;
         this.description = description;
         this.expenseAmount = expenseAmount;

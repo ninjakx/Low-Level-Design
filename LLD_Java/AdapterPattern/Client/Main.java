@@ -1,10 +1,10 @@
-package Java.AdapterPattern.Client;
+package AdapterPattern.Client;
 // main function call
 
 import java.util.Scanner;
-import Java.AdapterPattern.Adaptee.Adaptee;
-import Java.AdapterPattern.Adapter.AdapterInterface;
-import Java.AdapterPattern.Adapter.AdapterImpl;
+import AdapterPattern.Adaptee.Adaptee;
+import AdapterPattern.Adapter.AdapterInterface;
+import AdapterPattern.Adapter.AdapterImpl;
 
 public class Main {
     public static void main(String args[]){

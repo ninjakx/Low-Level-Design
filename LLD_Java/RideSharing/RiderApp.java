@@ -1,7 +1,7 @@
-package Java.RideSharing;
-import Java.RideSharing.Model.*;
-import Java.RideSharing.Usecase.*;
-import Java.RideSharing.Strategy.*;
+package RideSharing;
+import RideSharing.Model.*;
+import RideSharing.Usecase.*;
+import RideSharing.Strategy.*;
 import java.util.*;
 
 public class RiderApp {
